@@ -22,8 +22,8 @@ st.sidebar.header("📁 Input Options")
 dataset_option = st.sidebar.selectbox("Choose a demo dataset:", ["None"] + list(built_in_datasets.keys()))
 uploaded_file = st.sidebar.file_uploader("Or upload your own CSV file", type=["csv"])
 st.sidebar.write("""
-Billa venu gopal reddy : 21BCS5361 \n
-Sejal : 21BCS5517
+Nawal : 21BCS6014 \n
+Rohitashv : 21BCS6008
 """)
 
 # Load dataset
