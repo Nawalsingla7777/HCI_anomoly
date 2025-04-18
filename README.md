@@ -2,7 +2,6 @@
 
 An interactive Streamlit web application to **detect anomalies in log datasets** using machine learning (Isolation Forest). It supports both uploading custom CSVs and selecting from sample datasets.
 
-[![Demo Interface](https://img.shields.io/badge/🚀%20Live%20Demo-hci--anomaly.streamlit.app-green?style=for-the-badge)](https://hci-anomaly.streamlit.app/)
 
 ---
 
@@ -17,7 +16,6 @@ An interactive Streamlit web application to **detect anomalies in log datasets**
 
 ## 🚀 Live Demo
 
-👉 Click here to try the app: [https://hci-anomaly.streamlit.app](https://hci-anomaly.streamlit.app)
 
 ---
 
