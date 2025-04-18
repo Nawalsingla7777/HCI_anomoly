@@ -1,6 +1,7 @@
 # 📊 HCI Anomaly Detection System
 
 An interactive Streamlit web application to **detect anomalies in log datasets** using machine learning (Isolation Forest). It supports both uploading custom CSVs and selecting from sample datasets.
+[![Demo Interface](https://img.shields.io/badge/🚀%20Live%20Demo-hci--anomaly.streamlit.app-green?style=for-the-badge)](https://hci-anomoly.streamlit.app/)
 
 
 ---
